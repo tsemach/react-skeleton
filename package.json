@@ -1,0 +1,31 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "A skeleton react project with typescript and parcel as bundling",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsemach/react-skeleton.git"
+  },
+  "keywords": [],
+  "author": "Tsemach Mizrachi <tsemach.mizrachi@gmail.com> (http://tsemach.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsemach/react-skeleton/issues"
+  },
+  "homepage": "https://github.com/tsemach/react-skeleton#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.22",
+    "@types/react-dom": "^16.8.4",
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.22.1",
+    "typescript": "^3.5.2"
+  }
+}
